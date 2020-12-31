@@ -6,5 +6,5 @@ $ cd reverse-cypher-descrypter
 $ chmod +x *
 $ pkg install python
 $ python rcd.py
-The tool opens the asks for the encrypted text, paste the text in your window then hit enter.
-All is done your text is descrypted.
+The tool opens then asks for the encrypted text, paste the text in your window then hit enter.
+All is done your text is decrypted.
